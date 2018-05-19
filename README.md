@@ -1,3 +1,2 @@
 # Custom Arch Linux Rice
-
-![The Stuff](https://github.com/UnluckyTech/dotfiles/tree/master/Images/screenshot.png "screenshot")
+![alt text](https://i.imgur.com/T6wZvAF.png)
