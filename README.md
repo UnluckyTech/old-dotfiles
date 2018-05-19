@@ -1,3 +1,3 @@
 # Custom Arch Linux Rice
 
-![The Setup](https://github.com/UnluckyTech/Ddotfiles/master/images/screenshot.png)
+![The Setup](https://github.com/UnluckyTech/dotfiles/tree/master/Images)
