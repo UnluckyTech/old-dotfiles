@@ -1,3 +1,3 @@
-# dotfiles
+# Custom Arch Linux Rice
 
-yaes
+![The Setup](https://github.com/UnluckyTech/Ddotfiles/master/images/screenshot.png)
